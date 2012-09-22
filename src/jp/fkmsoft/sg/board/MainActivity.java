@@ -98,8 +98,7 @@ public class MainActivity extends Activity {
             }
         }
         private void buyFunction(MainActivity activity) {
-            activity.mBillingService.requestPurchase("sg_board_stage_1", "inapp", "");
-//            activity.mBillingService.requestPurchase("android.test.purchased", "inapp", "");
+            activity.mBillingService.requestPurchase("android.test.purchased", "inapp", "");
         }
         
     }
