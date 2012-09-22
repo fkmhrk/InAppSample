@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SG_Board</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="item_func">Function A</string>
+    <string name="buy">Buy</string>
+    <string name="item_money">100 SG Point</string>
+    <string name="item_vip">VIP mode</string>
+
+</resources>
